@@ -10,3 +10,9 @@
   font-weight: bold;
   src: url("fonts/shift-bold.woff") format("woff");
 }
+::selection {
+  background: #a8d1ff;
+}
+::-moz-selection {
+  background: #a8d1ff;
+}
